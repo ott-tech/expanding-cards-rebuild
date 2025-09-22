@@ -41,6 +41,10 @@ JavaScript
 
 📸 Demo
 <img width="1829" height="808" alt="image" src="https://github.com/user-attachments/assets/5e94d130-0574-4603-b59e-afaad7c79b88" />
+## 📸 Demo
+- [Live Demo](https://your-username.github.io/Expanding-Cards/)
+- [Source Code](https://github.com/your-username/Expanding-Cards)
+
 
 
 🔑 License
