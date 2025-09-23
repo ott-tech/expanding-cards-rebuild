@@ -42,8 +42,8 @@ JavaScript
 📸 Demo
 <img width="1829" height="808" alt="image" src="https://github.com/user-attachments/assets/5e94d130-0574-4603-b59e-afaad7c79b88" />
 ## 📸 Demo
-- [Live Demo](https://your-username.github.io/Expanding-Cards/)
-- [Source Code](https://github.com/your-username/Expanding-Cards)
+- [Live Demo](https://ott-tech.github.io/expanding-cards-rebuild/)
+- [Source Code](https://github.com/ott-tech/expanding-cards-rebuild)
 
 
 
